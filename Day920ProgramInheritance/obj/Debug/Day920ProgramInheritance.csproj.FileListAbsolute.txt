@@ -1,0 +1,2 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day920ProgramInheritance\Day920ProgramInheritance\bin\Debug\Day920ProgramInheritance.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day920ProgramInheritance\Day920ProgramInheritance\obj\Debug\Day920ProgramInheritance.csprojResolveAssemblyReference.cache
